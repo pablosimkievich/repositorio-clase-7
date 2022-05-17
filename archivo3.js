@@ -1,0 +1,1 @@
+console.log ("Escribiendo un string para el console log")
